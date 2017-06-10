@@ -5,7 +5,7 @@
 
 # edit here to achieve your personal greatness
 url: http://anika.mektekbd.com
-baseurl: /anika/
+baseurl: http://anika.mektekbd.com/
 title: Anika Fahmida
 author: Anika Fahmida
 description: Personal blog and resume
@@ -14,9 +14,9 @@ email: anikafahmidahossain29@gmail.com
 phone: +8801752366712
 facebook: anikafahmida.hossain.5
 github: aniqafahmida # username
-twitter: Saif_MekTek
-linkedin: saif-maruf-7a5b0913b
-stackoverflow: users/8098885/saif-maruf   #e.g: users/2735833/proton1h1
+twitter: 
+linkedin: 
+stackoverflow:  #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
 disqus: MekTek
 google_analytics: UA-69391421-1
